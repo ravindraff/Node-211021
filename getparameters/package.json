@@ -1,0 +1,10 @@
+{
+    "name": "getparams",
+    "description": "description",
+    "authors": "author",
+    "version": "1.0.0",
+    "main": "pathToMain",
+    "dependencies": {
+        "@types/express": "^4.17.13"
+    }
+}
